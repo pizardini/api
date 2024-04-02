@@ -30,3 +30,4 @@ C:\Users\ALUNO\Desktop\api\apiExemplo\obj\Debug\net8.0\refint\apiExemplo.dll
 C:\Users\ALUNO\Desktop\api\apiExemplo\obj\Debug\net8.0\apiExemplo.pdb
 C:\Users\ALUNO\Desktop\api\apiExemplo\obj\Debug\net8.0\apiExemplo.genruntimeconfig.cache
 C:\Users\ALUNO\Desktop\api\apiExemplo\obj\Debug\net8.0\ref\apiExemplo.dll
+C:\Users\ALUNO\Desktop\api\apiExemplo\obj\Debug\net8.0\apiExemplo.sourcelink.json
