@@ -7,4 +7,11 @@ public class DataContext : DbContext
 
     public DbSet<TipoCurso> TipoCursos { get; set; } = null!;
 
+    public DbSet<Curso> Cursos { get; set; } = null!;
+
+//     protected override void OnModelCreating(ModelBuilder modelBuilder)
+// {
+    
+// }
+
 }

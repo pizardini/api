@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
-public class TipoCurso {
+public class Curso
+{
     [Required]
     public int Id { get; set; }
 
@@ -11,10 +11,7 @@ public class TipoCurso {
     public string Nome { get; set; }
 
     [Required]
-    [MinLength(5, ErrorMessage = "A descrição deve possuir, no mínimo, 5 caracteres")]
-    [MaxLength(100)]
-    public string Descricao { get; set; }
+    public int TipoCursoId { get; set; }
 
-    [NotMapped]
-    public string Chave { get; set; }
+    public TipoCurso? TipoDoCurso { get; set; }
 }
