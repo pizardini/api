@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JbLK3piAy2aX4vMMIW367HendEJCPPXd4Ft2DF540lAAhQSYXqFEs/oByLnve+Dkm1ig04lfjccFkmfF68+CAg==",
+  "dgSpecHash": "YJ+KdPAAFCONPpdj1ufNf3dgH0psixWMrWc+moZcqn1SKVoDdpMszjh1EXSxoTGCZCeMKpP92PLUBKj5EFnMPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALUNO\\Desktop\\teste\\api\\apiExemplo\\apiExemplo.csproj",
+  "projectFilePath": "Y:\\Tiago\\api\\apiExemplo\\apiExemplo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUNO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ALUNO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
